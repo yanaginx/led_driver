@@ -5,6 +5,6 @@ For testing and usage:
   1. Put all the ~.v in one project folder and compile the `LEDdriver.v`.
   2. Pin assignment can be imported with this [csv](https://files.catbox.moe/xcuw8q.csv) file (DE2i-150 specified).
   
-A demo vid of the result can be watched [here](https://youtu.be/MssNMzh5w2Y). 
+A demo vid of the result can be watched [here](https://youtu.be/YUjkH-Yj5Lw). 
 
 Thank you for reading til this line.
